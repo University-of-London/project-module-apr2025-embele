@@ -375,30 +375,6 @@ ls -la /opt/lengau-monitoring/models/
 ./lengau_system_status.py
 ```
 
-## 📖 Complete Documentation Suite
-
-### **🎓 Academic Documentation (MSc Technical Report)**
-- **[Final MSc Technical Report](Final_Thesis_v6.md)** ⭐ **PRIMARY Technical Report DOCUMENT**
-  - **Length**: 7,818 words
-  - **Format**: Technical report with production validation
-  - **Content**: Complete methodology, implementation, results, and analysis
-  - **Status**: ✅ **Completed with real production deployment validation**
-
-- **[Implementation Scripts Reference](Appendix_Implementation_Scripts_Complete.md)** ⭐ **APPENDIX A - COMPLETE SCRIPT DOCUMENTATION**
-  - **Coverage**: All 30 scripts across 6 categories explained in detail
-  - **Organization**: GitHub-ready structure (Collection, Core, Management, Monitoring, Tests, Config)
-  - **Production Metrics**: Performance data, resource usage, deployment statistics
-  - **Usage Examples**: Complete command references and operational guidance
-
-- **[Extended Academic Version](Complete_MSc_Thesis_Final_Updated_2025.md)** - Research-focused expanded version
-- **[System Operations Guide](AGENT.md)** - Production deployment and troubleshooting reference
-
-### Technical Documentation
-- **[Installation Guide](AGENT.md#installation)** - Setup instructions
-- **[API Reference](AGENT.md#commands)** - Command reference
-- **[Configuration Guide](AGENT.md#configuration)** - System configuration
-
-
 ## 🎓 Academic Information
 
 ### Research Details
@@ -664,10 +640,6 @@ This research project is open for community contributions and academic collabora
 
 
 
-**📖 Key Documentation References**:
-- **Primary**: [Final_Thesis_v6.md](Final_Thesis_v6.md) - Complete technical report (7,818 words)
-- **Implementation**: [Appendix_Implementation_Scripts_Complete.md](Appendix_Implementation_Scripts_Complete.md) - All 30 scripts documented
-- **Operations**: [AGENT.md](AGENT.md) - Production deployment and troubleshooting guide
 
 **📈 System Status**: ✅ Production Operational (24/7)  
 **🔬 Research Status**: ✅ MSc Technical Report Completed  
