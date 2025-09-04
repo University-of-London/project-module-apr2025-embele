@@ -476,7 +476,7 @@ nohup ./lengau_realtime_detector.py > detector.log 2>&1 &
 
 ## 📁 Complete File Listing for GitHub Upload
 
-### ✅ Essential Core Scripts (Must Upload)
+### ✅ Essential Core Scripts 
 
 #### **AI System Core**
 - `lengau_comprehensive_ai_trainer_5models.py` ⭐ **MAIN TRAINER**
