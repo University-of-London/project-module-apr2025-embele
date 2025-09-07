@@ -1,0 +1,35 @@
+# Deep Learning Requirements for Lengau HPC Anomaly Detection
+# Install with: pip install -r requirements_deep_learning.txt
+
+# Core Deep Learning Framework
+tensorflow>=2.8.0,<3.0.0
+
+# Alternative: TensorFlow CPU-only version (smaller install)
+# tensorflow-cpu>=2.8.0,<3.0.0
+
+# Keras (included with TensorFlow 2.x, but explicit version for clarity)
+keras>=2.8.0
+
+# Numerical Computing (already included in main requirements)
+numpy>=1.21.0
+pandas>=1.4.0
+
+# Visualization for model training
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Model persistence and utilities
+h5py>=3.6.0  # For saving Keras models
+joblib>=1.1.0  # For saving scalers
+
+# Additional ML utilities
+scikit-learn>=1.0.0  # Already in main requirements
+
+# Optional: GPU support (uncomment if using NVIDIA GPUs)
+# tensorflow-gpu>=2.8.0,<3.0.0
+
+# Development and debugging
+tensorboard>=2.8.0  # For model training visualization
+
+# Note: This file adds deep learning capabilities to the existing system
+# The main system still works without these dependencies

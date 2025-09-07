@@ -1,0 +1,29 @@
+# Lengau AI Anomaly Detection Prometheus Configuration
+# Add this to your existing prometheus.yml file under the scrape_configs section
+
+scrape_configs:
+  - job_name: 'lengau-ai-anomaly-detection'
+    static_configs:
+      - targets: ['localhost:9101']
+    scrape_interval: 30s
+    scrape_timeout: 10s
+    metrics_path: /metrics
+    honor_labels: false
+    params:
+      format: ['prometheus']
+    
+  # Optional: Add other Lengau system exporters if they exist
+  - job_name: 'lengau-system'
+    static_configs:
+      - targets: ['localhost:9100']  # Adjust port if different
+    scrape_interval: 15s
+    
+  - job_name: 'lengau-pbs'
+    static_configs:
+      - targets: ['localhost:9102']  # Adjust port if different
+    scrape_interval: 30s
+    
+  - job_name: 'lengau-storage'
+    static_configs:
+      - targets: ['localhost:9103']  # Adjust port if different
+    scrape_interval: 60s
