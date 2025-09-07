@@ -89,7 +89,7 @@ python lengau_ai_dashboard.py
 
 ### **GitHub Organization Structure**
 ```
-/
+/opt/lengau-monitoring
 ├── Collection/         # Data collection and preprocessing (4 scripts)
 ├── Core/              # Main AI system components (3 scripts)
 ├── Management/        # System deployment and operations (6 scripts)  
