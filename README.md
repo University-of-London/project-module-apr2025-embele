@@ -220,13 +220,6 @@ python lengau_ai_dashboard.py
 
 ### 📚 Documentation and Analysis
 
-#### **Technical Report and Documentation**
-- `Complete_MSc_Thesis_Final_Updated_2025.md` - **Complete MSc Technical Report**
-- `thesis_performance_report.md` - Performance analysis report
-- `AGENT.md` - System operation guide
-- `SYSTEM_SUMMARY.md` - System overview
-- `README.md` - This file
-
 
 ### ⚙️ Configuration and Setup
 
@@ -377,14 +370,6 @@ ls -la /opt/lengau-monitoring/models/
 
 ## 🎓 Academic Information
 
-### Research Details
-- **Institution**: Centre for High Performance Computing (CHPC), South Africa
-- **Degree**: Master of Science (MSc) in Computer Science
-- **Author**: Sibusiso Eric Mbele (Student Number: 230508505)
-- **Course**: CSM500 - Project (Final Technical Report)
-- **Word Count**: 7,818 words
-- **Date**: August 2025
-- **Technical Report Status**: ✅ **COMPLETED WITH PRODUCTION VALIDATION**
 
 ### Research Contributions
 1. **Novel 6-Model Ensemble**: First production HPC deep learning anomaly detection
