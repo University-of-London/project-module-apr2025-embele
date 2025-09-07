@@ -526,19 +526,7 @@ nohup ./lengau_realtime_detector.py > detector.log 2>&1 &
 - `scan_node_exporter_ports.sh`
 - `test_comprehensive_processor.py`
 
-### 📚 Documentation Files
 
-#### **Academic Documentation**
-- `Complete_MSc_Technical Report_Final_Updated_2025.md` ⭐ **Technical Report**
-- `thesis_performance_report.md` ⭐ **PERFORMANCE REPORT**
-- `Final_project_proposal.md` ⭐ **ORIGINAL PROPOSAL**
-- `MSc-Project_proposal.md` ⭐ **PROJECT PROPOSAL**
-
-#### **System Documentation**
-- `README.md` ⭐ **THIS FILE**
-- `AGENT.md` ⭐ **OPERATION GUIDE**
-- `SYSTEM_SUMMARY.md`
-- `Key_Performance_Tables.md`
 
 #### **Setup and Configuration**
 - `requirements_deep_learning.txt` ⭐ **PYTHON DEPENDENCIES**
