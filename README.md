@@ -545,14 +545,9 @@ nohup ./lengau_realtime_detector.py > detector.log 2>&1 &
 
 ## 📝 Usage Instructions
 
-### For Researchers
-1. **Read the Technical Report**: `Complete_MSc_Thesis_Final_Updated_2025.md`
-2. **Study methodology**: Focus on 6-model ensemble approach
-3. **Analyze results**: Review production performance data
-4. **Adapt for your cluster**: Modify configuration for your infrastructure
 
 ### For HPC Administrators  
-1. **Start with**: `AGENT.md` for operational guidance
+1. **Start with**: `README.md` for operational guidance
 2. **Deploy system**: Follow `deploy_lengau_ai_system.sh`
 3. **Monitor operations**: Use `lengau_system_status.py`
 4. **Maintain system**: Reference troubleshooting guides
